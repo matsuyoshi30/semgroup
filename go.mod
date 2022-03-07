@@ -1,4 +1,4 @@
-module github.com/fatih/semgroup
+module github.com/matsuyoshi30/semgroup
 
 go 1.17
 
